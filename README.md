@@ -1,0 +1,2 @@
+# goxmodule
+Example Go Module
